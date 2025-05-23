@@ -54,6 +54,6 @@ Include example plots here, like bar charts or segmentation images.
 This project could be extended to incorporate machine learning for feature detection and analysis, or adapted to analyze different cell structures in various biological research contexts. Future work may also include integrating more complex image processing techniques, like texture analysis, or applying these methods in other scientific fields, such as environmental imaging or materials science.
 
 ## Contact
-If you have any questions or would like to discuss this project further, please feel free to reach out via LinkedIn or email me at [your-email@example.com].
+If you have any questions or would like to discuss this project further, please feel free to reach out via LinkedIn or email me at [rodriguez.gutierrez.dan@gmail.com].
 
 
