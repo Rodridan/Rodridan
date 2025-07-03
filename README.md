@@ -20,13 +20,12 @@ I am a passionate scientist with 10+ years of experience in **biomedical researc
 
 ---
 
-## 🚀 Featured Data Science Projects
+## Featured Data Science Projects
 
 ### 🌀 [Hurricane Damage Detector](https://github.com/Rodridan/Hurricane_damage-detector)
 A deep learning pipeline for the automated detection of hurricane damage in satellite/aerial imagery.  
 - **Features:** Modular, reproducible ML workflow, supports both training and inference with pretrained models, GradCAM visualizations.
 - **Tech:** TensorFlow, Keras, Python, Loguru, Google Drive integration.
-- **Pretrained Models:** Download via [Google Drive link](https://drive.google.com/drive/folders/1ufAXL1uJoydDQ85pfs6wNTj3SRVkFO8Y?usp=sharing) (not stored in GitHub due to size).
 - **Use Cases:** Rapid disaster assessment, resource allocation, climate resilience.
 
 ### 🔬 [Endometriosis Plasma Biomarker Analysis](https://github.com/Rodridan/Endometriosis_Biomarker_Analysis)
@@ -42,7 +41,7 @@ An interactive Streamlit web app to explore, filter, and visualize the character
 
 ---
 
-## 🛠️ Other Topics & Tools
+##  Other Topics & Tools
 
 - **Translational Medicine**: Biomarker discovery, target validation, patient-data integration
 - **Advanced Data Visualization**: Interactive dashboards, scientific plotting
@@ -51,7 +50,7 @@ An interactive Streamlit web app to explore, filter, and visualize the character
 
 ---
 
-## 🏆 Awards & Recognition
+## Awards & Recognition
 
 - Swiss Company Maker - Idea Project Champion 2019
 - Day of Clinical Research Award (USZ), 2023
@@ -60,7 +59,7 @@ An interactive Streamlit web app to explore, filter, and visualize the character
 
 ---
 
-## 📫 Let’s Connect
+## Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/daniel-rodriguez-gutierrez/)  
 - [Email](mailto:rodriguez.gutierrez.dan@gmail.com)  
