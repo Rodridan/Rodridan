@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Daniel Rodriguez Gutierrez
+# 👋 Hi, I’m Daniel
 
 ## About Me
 
