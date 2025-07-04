@@ -28,7 +28,7 @@ A deep learning pipeline for the automated detection of hurricane damage in sate
 - **Tech:** TensorFlow, Keras, Python, Loguru, Google Drive integration.
 - **Use Cases:** Rapid disaster assessment, resource allocation, climate resilience.
 
-### 🔬 [Endometriosis Plasma Biomarker Analysis](https://github.com/Rodridan/Endometriosis_Biomarker_Analysis)
+### 🔬 [EndoSign: Endometriosis Plasma Biomarker Analysis](https://github.com/Rodridan/EndoSign)
 Dimensionality reduction and classification of plasma biomarkers for endometriosis.
 - **Features:** Multi-omics data integration, UMAP, PCA, Ezian classification, clear visual analytics.
 - **Tech:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
