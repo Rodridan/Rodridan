@@ -22,7 +22,7 @@ I am a passionate scientist with 10+ years of experience in **biomedical researc
 
 ## Featured Data Science Projects
 
-### 🌀 [Hurricane Damage Detector](https://github.com/Rodridan/Hurricane_damage-detector)
+### 🌀 [RiskScope V1.0](https://github.com/Rodridan/Hurricane_damage-detector)
 A deep learning pipeline for the automated detection of hurricane damage in satellite/aerial imagery.  
 - **Features:** Modular, reproducible ML workflow, supports both training and inference with pretrained models, GradCAM visualizations.
 - **Tech:** TensorFlow, Keras, Python, Loguru, Google Drive integration.
