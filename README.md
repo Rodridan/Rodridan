@@ -22,17 +22,17 @@ I am a passionate scientist with 10+ years of experience in **biomedical researc
 
 ## Featured Data Science Projects
 
-### 🌀 [RiskScope V1.0](https://github.com/Rodridan/Hurricane_damage-detector)
-A deep learning pipeline for the automated detection of hurricane damage in satellite/aerial imagery.  
-- **Features:** Modular, reproducible ML workflow, supports both training and inference with pretrained models, GradCAM visualizations.
-- **Tech:** TensorFlow, Keras, Python, Loguru, Google Drive integration.
-- **Use Cases:** Rapid disaster assessment, resource allocation, climate resilience.
-
 ### 🔬 [EndoSign: Endometriosis Plasma Biomarker Analysis](https://github.com/Rodridan/EndoSign)
 Dimensionality reduction and classification of plasma biomarkers for endometriosis.
 - **Features:** Multi-omics data integration, UMAP, PCA, Ezian classification, clear visual analytics.
 - **Tech:** Python, Pandas, Scikit-learn, Matplotlib, Seaborn.
 - **Impact:** Advances understanding of diagnostic signatures for complex diseases.
+
+### 🌀 [RiskScope V1.0](https://github.com/Rodridan/Hurricane_damage-detector)
+A deep learning pipeline for the automated detection of hurricane damage in satellite/aerial imagery.  
+- **Features:** Modular, reproducible ML workflow, supports both training and inference with pretrained models, GradCAM visualizations.
+- **Tech:** TensorFlow, Keras, Python, Loguru, Google Drive integration.
+- **Use Cases:** Rapid disaster assessment, resource allocation, climate resilience.
 
 ### 📚 [Dune Character Explorer](https://github.com/Rodridan/Dune-Character-Explorer)
 An interactive Streamlit web app to explore, filter, and visualize the characters of Frank Herbert’s Dune universe.
